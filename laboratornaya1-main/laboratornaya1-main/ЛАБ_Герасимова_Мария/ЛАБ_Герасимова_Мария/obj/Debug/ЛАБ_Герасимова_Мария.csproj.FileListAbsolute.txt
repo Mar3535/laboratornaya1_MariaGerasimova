@@ -1,0 +1,15 @@
+C:\Users\29314387\source\repos\ЛАБ_Герасимова_Мария\ЛАБ_Герасимова_Мария\bin\Debug\ЛАБ_Герасимова_Мария.exe.config
+C:\Users\29314387\source\repos\ЛАБ_Герасимова_Мария\ЛАБ_Герасимова_Мария\bin\Debug\ЛАБ_Герасимова_Мария.exe
+C:\Users\29314387\source\repos\ЛАБ_Герасимова_Мария\ЛАБ_Герасимова_Мария\bin\Debug\ЛАБ_Герасимова_Мария.pdb
+C:\Users\29314387\source\repos\ЛАБ_Герасимова_Мария\ЛАБ_Герасимова_Мария\obj\Debug\ЛАБ_Герасимова_Мария.csprojAssemblyReference.cache
+C:\Users\29314387\source\repos\ЛАБ_Герасимова_Мария\ЛАБ_Герасимова_Мария\obj\Debug\ЛАБ_Герасимова_Мария.csproj.CoreCompileInputs.cache
+C:\Users\29314387\source\repos\ЛАБ_Герасимова_Мария\ЛАБ_Герасимова_Мария\obj\Debug\ЛАБ_Герасимова_Мария.exe
+C:\Users\29314387\source\repos\ЛАБ_Герасимова_Мария\ЛАБ_Герасимова_Мария\obj\Debug\ЛАБ_Герасимова_Мария.pdb
+C:\Users\kurgu\Downloads\laboratornaya1-main\laboratornaya1-main\ЛАБ_Герасимова_Мария\ЛАБ_Герасимова_Мария\obj\Debug\ЛАБ_Герасимова_Мария.csproj.AssemblyReference.cache
+C:\Users\kurgu\Downloads\laboratornaya1-main\laboratornaya1-main\ЛАБ_Герасимова_Мария\ЛАБ_Герасимова_Мария\obj\Debug\ЛАБ_Герасимова_Мария.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurgu\Downloads\laboratornaya1-main\laboratornaya1-main\ЛАБ_Герасимова_Мария\ЛАБ_Герасимова_Мария\obj\Debug\ЛАБ_Герасимова_Мария.csproj.CoreCompileInputs.cache
+C:\Users\kurgu\Downloads\laboratornaya1-main\laboratornaya1-main\ЛАБ_Герасимова_Мария\ЛАБ_Герасимова_Мария\obj\Debug\ЛАБ_Герасимова_Мария.exe
+C:\Users\kurgu\Downloads\laboratornaya1-main\laboratornaya1-main\ЛАБ_Герасимова_Мария\ЛАБ_Герасимова_Мария\obj\Debug\ЛАБ_Герасимова_Мария.pdb
+C:\Users\kurgu\Downloads\laboratornaya1-main\laboratornaya1-main\ЛАБ_Герасимова_Мария\ЛАБ_Герасимова_Мария\bin\Debug\ЛАБ_Герасимова_Мария.exe.config
+C:\Users\kurgu\Downloads\laboratornaya1-main\laboratornaya1-main\ЛАБ_Герасимова_Мария\ЛАБ_Герасимова_Мария\bin\Debug\ЛАБ_Герасимова_Мария.exe
+C:\Users\kurgu\Downloads\laboratornaya1-main\laboratornaya1-main\ЛАБ_Герасимова_Мария\ЛАБ_Герасимова_Мария\bin\Debug\ЛАБ_Герасимова_Мария.pdb
